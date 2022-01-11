@@ -1,4 +1,4 @@
-(https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/159889925_1204859056583645_3209047930797060844_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEr4PobhJNSGfRzhC3jSnPjdaZ-mnsWM7Z1pn6aexYzti9PzgPCMlbN9KMG6E_NSyDedgR-cNpxoEavFuFzcg_b&_nc_ohc=P0hWL_KANzoAX_tVOIB&tn=3_SU1Shj7cHn87GK&_nc_ht=scontent.fdac24-1.fna&oh=00_AT9Gxbn8hIqYpWfEAqVwbRxqqJfJAMRB6KD5Sjx8tcr5uw&oe=62028DE7)
+https://www.facebook.com/photo/?fbid=1204859053250312&set=a.146533142416247
 ### Hi there 👋, I'm Junayed Kabir Fahim.
 #### I am Network Designer, Researcher  and a passionate student to learn new thinghs. 
 ![I am Network Designer, Researcher  and a passionate student to learn new thinghs. ]
