@@ -1,15 +1,31 @@
-### Hi there 👋
+(https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/159889925_1204859056583645_3209047930797060844_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEr4PobhJNSGfRzhC3jSnPjdaZ-mnsWM7Z1pn6aexYzti9PzgPCMlbN9KMG6E_NSyDedgR-cNpxoEavFuFzcg_b&_nc_ohc=P0hWL_KANzoAX_tVOIB&tn=3_SU1Shj7cHn87GK&_nc_ht=scontent.fdac24-1.fna&oh=00_AT9Gxbn8hIqYpWfEAqVwbRxqqJfJAMRB6KD5Sjx8tcr5uw&oe=62028DE7)
+### Hi there 👋, I'm Junayed Kabir Fahim.
+#### I am Network Designer, Researcher  and a passionate student to learn new thinghs. 
+![I am Network Designer, Researcher  and a passionate student to learn new thinghs. ]
 
-**JunayedKabir/JunayedKabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner developer and still learning different types of new programming languages and technologies. 
 
-Here are some ideas to get you started:
+Skills: C/ C++/ C#/ Java/ PHP/ HTML / CSS/ Computer network
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning JavaScript, Laravel. 
+- 👯 I’m looking to collaborate on Google. 
+- 🤔 I’m looking for help with Google, YouTube, W3school and other websites. 
+- 💬 Ask me about Networking. 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JunayedKabir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/junayedkabirfahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/junayedkabirfahim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/theZunayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_junayedkabirfahim/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JunayedKabir)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunayedKabir)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunayedKabir&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JunayedKabir)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JunayedKabir)  
+
+![Profile views](https://gpvc.arturio.dev/JunayedKabir)  
