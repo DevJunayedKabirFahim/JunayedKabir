@@ -1,7 +1,6 @@
 
 ### Hi there 👋, I'm Junayed Kabir Fahim.
 #### I am Network Designer, Researcher  and a passionate student to learn new thinghs. 
-![I am Network Designer, Researcher  and a passionate student to learn new thinghs. ]
 
 I am a beginner developer and still learning different types of new programming languages and technologies. 
 
