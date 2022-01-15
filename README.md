@@ -1,4 +1,4 @@
-https://www.facebook.com/photo/?fbid=1204859053250312&set=a.146533142416247
+
 ### Hi there 👋, I'm Junayed Kabir Fahim.
 #### I am Network Designer, Researcher  and a passionate student to learn new thinghs. 
 ![I am Network Designer, Researcher  and a passionate student to learn new thinghs. ]
@@ -7,7 +7,7 @@ I am a beginner developer and still learning different types of new programming 
 
 Skills: C/ C++/ C#/ Java/ PHP/ HTML / CSS/ Computer network
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently studing in American International University, Bangladesh. 
 - 🌱 I’m currently learning JavaScript, Laravel. 
 - 👯 I’m looking to collaborate on Google. 
 - 🤔 I’m looking for help with Google, YouTube, W3school and other websites. 
